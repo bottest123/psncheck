@@ -9,7 +9,7 @@ def randomString(stringLength=45):
 
 #host = "104.223.107.42"
 #host = 'localhost'
-host = "34.97.131.241"
+#host = "34.97.131.241"
 user = 'root'
 password = 'amitpandey123121'
 dab = 'psnchecker'
