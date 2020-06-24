@@ -7,7 +7,7 @@ def randomString(stringLength=45):
     letters = string.ascii_lowercase
     return ''.join(random.choice(letters) for i in range(stringLength))
 
-#host = "104.223.107.42"
+host = "104.223.107.42"
 #host = 'localhost'
 #host = "34.97.131.241"
 user = 'root'
